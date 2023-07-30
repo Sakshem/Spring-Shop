@@ -14,8 +14,8 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="inventory-service" target="16" />
-      <module name="order-service" target="16" />
-      <module name="product-service" target="16" />
+      <module name="order-service" target="17" />
+      <module name="product-service" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
