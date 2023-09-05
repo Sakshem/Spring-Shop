@@ -46,4 +46,5 @@ This repository contains a microservices project that implements a set of servic
 - Docker (for containerization)
 
 ### Services Model Representation
-![image](https://github.com/Sakshem/microservices-project/assets/61968230/56e14da3-844c-41c7-ac50-be61529bab2a)
+![image](https://github.com/Sakshem/Spring-Shop/assets/61968230/cc00ef02-8517-460d-a80c-928e8d92eaac)
+
