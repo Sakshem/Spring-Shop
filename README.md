@@ -1,4 +1,4 @@
-# Microservices Project
+# Spring-Shop - A Microservices Project
 
 This repository contains a microservices project that implements a set of services for managing products, orders, inventory, and notifications. The project is built using Java, Spring Boot, Maven, MongoDB, MySQL, Apache Kafka, Resilience4J, and Docker. It demonstrates both synchronous and asynchronous communication between services.
 
@@ -40,6 +40,7 @@ This repository contains a microservices project that implements a set of servic
 - Maven
 - MongoDB (Product Service)
 - MySQL (Order Service and Inventory Service)
+- Eureka (A service registry and discovery server used for locating and connecting to microservices)
 - Apache Kafka (Order Service and Notification Service)
 - Resilience4J (for fault tolerance)
 - Docker (for containerization)
